@@ -15,6 +15,7 @@ language: cpp
 os:
   - linux
   - osx
+  - linux-ppc64le
 
 compiler:
   - gcc
